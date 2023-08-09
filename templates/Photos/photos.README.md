@@ -8,7 +8,7 @@ This directory is dedicated specifically to shortcuts that primarily work with t
 
 ### *Photos* vs *Files*
 
-Put simply, an image file in your iCloud drive is not the same as one in your Photo library- even if they're literally the same image. I know that might sound a little confusing, so I'll explain...
+Put simply, an image file in your iCloud Drive is not the same as one in your Photo library- even if they're literally the same image. I know that might sound a little confusing, so I'll explain...
 
 The reason the two aforementioned "identical" images are not *actually* the same is because they're imaginary and don't really exist.
 

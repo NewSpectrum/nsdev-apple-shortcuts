@@ -1,0 +1,29 @@
+{
+	"{JFIF}": {
+		"JFIFVersion": [1,0,1],
+		"YDensity": 1,
+		"XDensity": 1,
+		"DensityUnit": 0
+	},
+	"{TIFF}": {
+		"XResolution": 72,
+		"ResolutionUnit": 2,
+		"YResolution": 72
+	},
+	"{Exif}": {
+		"ColorSpace": 1,
+		"PixelXDimension": 1553,
+		"ExifVersion": [2,2,1],
+		"FlashPixVersion": [1,0],
+		"PixelYDimension": 2761,
+		"SceneCaptureType": 0,
+		"ComponentsConfiguration": [1,2,3,0]
+	},
+	"PixelHeight": 2761,
+	"PixelWidth": 1553,
+	"DPIWidth": 72,
+	"DPIHeight": 72,
+	"ProfileName": "sRGB",
+	"ColorModel": "RGB",
+	"Depth": 8
+}
